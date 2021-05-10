@@ -16,7 +16,7 @@
 			<key>KeyboardType</key>
 			<string>URL</string>
 			<key>DefaultValue</key>
-			<string>https://06364e18-f3db-4308-ad96-e82a25c49020.mock.pstmn.io/notifications</string>
+			<string>https://mock.pstmn.io/notifications</string>
 			<key>Type</key>
 			<string>PSTextFieldSpecifier</string>
 			<key>Title</key>
